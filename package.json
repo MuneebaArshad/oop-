@@ -1,0 +1,20 @@
+{
+  "name": "m2ar9_oop_interactive_consoleapp",
+  "version": "1.0.0",
+  "description": "A TypeScript console application to demonstrate Object Oriented Programming concepts.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords":  ["OOP", "TypeScript", "Console Application", "Interactive"],
+  "author": "Muneeba Arshad",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
